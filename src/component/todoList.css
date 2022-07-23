@@ -1,0 +1,19 @@
+.list ul li{
+    list-style: none;
+    text-align: left;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.list ul {
+    padding-left: 0;
+    padding-top: 20px;
+}
+.list input{
+    text-align: left;
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+}
+.content{
+    display: flex ;
+}
